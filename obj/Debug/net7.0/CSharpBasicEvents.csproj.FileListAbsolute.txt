@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\bin\Debug\net7.0\CSharpBasicEvents.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\bin\Debug\net7.0\CSharpBasicEvents.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\bin\Debug\net7.0\CSharpBasicEvents.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\bin\Debug\net7.0\CSharpBasicEvents.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\bin\Debug\net7.0\CSharpBasicEvents.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\CSharpBasicEvents.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\CSharpBasicEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\CSharpBasicEvents.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\CSharpBasicEvents.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\CSharpBasicEvents.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\CSharpBasicEvents.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\refint\CSharpBasicEvents.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\CSharpBasicEvents.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\CSharpBasicEvents.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBasicEvents\obj\Debug\net7.0\ref\CSharpBasicEvents.dll
